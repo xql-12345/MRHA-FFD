@@ -1,3 +1,3 @@
 # MRHA-FFD
 REGISTRATION
-运行mian程序
+运行FFD.cpp程序实现配准
